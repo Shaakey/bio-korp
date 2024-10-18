@@ -35,7 +35,7 @@ export default function Home() {
               hi, im korp!
             </h1>
             <p className="mt-4 text-lg text-gray-300 hover:scale-110 transition-transform duration-155">
-              i'm a rlly stupid developer!!! :3
+              im a rlly stupid developer!!! :3
             </p>
             <div className="mt-8 flex space-x-6">
               <a
